@@ -1,6 +1,6 @@
 # Installation Guide for DSpace Frontend and Backend
 
-This document provides a step-by-step guide for installing the DSpace 8 frontend and backend on your server.
+This document provides a step-by-step guide for installing the DSpace 8 frontend and backend on your local server.
 
 ## DSpace Frontend Installation
 
